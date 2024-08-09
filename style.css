@@ -1,0 +1,54 @@
+  .heading
+  {
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+    box-shadow: 5px 5px 5px black;
+    background-color:rgb(150, 189, 226);
+  }
+
+  .headingDiv
+  {
+    float: none;
+    background-color:rgb(139, 176, 209);
+    padding: 10px;
+    border-radius: 20px;
+  }
+
+  .headingDiv2
+  {
+    font-size: 18px ;
+  }
+
+  .resultToTag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+
+  .resultToTag span
+  {
+    white-space: pre-line;
+  }
+
+  .copyRightFooter {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color:rgb(139, 176, 209);
+    line-height: 3;
+    text-align: center;
+    font-size: 17px;
+   }
+
+   body{
+    background-color: rgb(203, 231, 255);
+   }
+
+  canvas 
+  {
+    border: 5px solid white;
+    border-radius: 20px;
+    margin-top: 160px;
+  }
+ 
